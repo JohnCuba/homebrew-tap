@@ -1,4 +1,4 @@
-class MyTool < Formula
+class rustjack < Formula
   desc "Flex terminal gambling"
   homepage "https://github.com/johncuba/rustjack"
   url "https://github.com/johncuba/rustjack/releases/download/v0.2.0/rustjack-x86_64-apple-darwin.tar.gz"
