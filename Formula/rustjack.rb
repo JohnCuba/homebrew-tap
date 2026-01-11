@@ -1,9 +1,9 @@
 class Rustjack < Formula
   desc "Flex terminal gambling"
   homepage "https://github.com/johncuba/rustjack"
-  url "https://github.com/johncuba/rustjack/releases/download/v0.3.0/rustjack-x86_64-apple-darwin.tar.gz"
-  version "0.3.0"
-  sha256 "a045dbae47a2d47f21d550da2f041504cbe86d3343bd7e6b815a9d43a685ade9"
+  url "https://github.com/johncuba/rustjack/releases/download/v0.3.1/rustjack-x86_64-apple-darwin.tar.gz"
+  version "0.3.1"
+  sha256 "1c4d8bf08e0826ac23ff4e1e61e981915f9e18e04ece3c8d5bd9a95e7234a813"
   license "MIT"
 
   def install
