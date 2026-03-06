@@ -3,7 +3,7 @@ class Rustjack < Formula
   homepage "https://github.com/johncuba/rustjack"
   url "https://github.com/johncuba/rustjack/releases/download/v1.1.1/rustjack-x86_64-apple-darwin.tar.gz"
   version "1.1.1"
-  sha256 "3dd5aef3b01158bb39fe8b560d6d367f94ebbd962f542acb1e8bce247815ed46"
+  sha256 "2c1a6198926a8da94fe32a11846cb708e6f9e396a99a8dddf40ea60670d87f44"
   license "MIT"
 
   def install
